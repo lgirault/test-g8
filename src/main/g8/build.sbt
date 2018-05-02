@@ -2,7 +2,7 @@
 
 organization := "com.mediarithmics.sbt-plugins"
 
-name := "test-plugin"
+name := "$name$"
 
 version := "0.1-SNAPSHOT"
 
